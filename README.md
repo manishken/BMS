@@ -122,7 +122,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
----
-
-Replace `[YEAR]` with the current year and `[YOUR NAME OR YOUR ORGANIZATION]` with your name or your organization's name. Customize the introduction and any other sections as needed to better fit your specific project.
