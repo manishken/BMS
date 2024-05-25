@@ -1,0 +1,7 @@
+.dropdown-menu > a:hover {
+	background-color: #202020;
+}
+
+.shows-select .select {
+	width: 100% !important;
+}
