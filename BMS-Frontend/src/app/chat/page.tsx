@@ -200,8 +200,8 @@ export default function App() {
         async function initalizeChat() {
             console.log(manageUser)
             const chat = await Chat.init({
-                publishKey: 'pub-c-0ecddc19-f774-4557-b122-a05678e52421',
-                subscribeKey: 'sub-c-606250c4-d7f1-4663-8284-df1f40070bbe',
+                publishKey: 'uuid',
+                subscribeKey: 'uuid',
                 userId: manageUser[0]?.id? manageUser[0]?.id: 'an',
             })
             const currentUser = await chat.currentUser.update(manageUser[0]?.data)
