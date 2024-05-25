@@ -1,8 +1,5 @@
-Sure, here's a well-structured README file combining the frontend and backend installation steps you provided:
 
----
-
-# Project Title
+# Movie Ticket Booking System
 
 Brief description of what the project does and its purpose.
 
